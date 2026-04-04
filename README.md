@@ -47,4 +47,4 @@ I enjoy building end-to-end data projects, from data cleaning to analytics and r
 
 ## 📫 Connect with Me
 
-- LinkedIn (add your link here)
+- LinkedIn [(https://www.linkedin.com/in/sreyagracy/)]
