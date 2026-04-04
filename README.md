@@ -9,18 +9,27 @@ I enjoy building end-to-end data projects, from data cleaning to analytics and r
 
 ## 🚀 Featured Projects
 
+### 🥇 Customer Behavior Analytics Project – SQL, Python & Power BI
+- Built an end-to-end analytics project using Python, SQL, and Power BI  
+- Performed data cleaning, feature engineering, and segmentation  
+- Generated business insights and created interactive dashboards  
+
+🔗 https://github.com/Sreya200402/Customer_Behavior_Analytics_Project  
+
+---
+
 ### 🏗️ SQL Data Warehouse Project – Sales Data Engineering
-- Built a structured data warehouse using SQL  
 - Designed fact and dimension tables (star schema)  
-- Performed data cleaning and transformation  
+- Transformed raw data into structured datasets  
+- Built foundation for analytics  
 
 🔗 https://github.com/Sreya200402/SQL_Data_Warehouse_Project  
 
 ---
 
 ### 📊 SQL Sales Insights Project – Business Analytics
-- Performed SQL-based data analysis and KPI generation  
-- Analyzed sales trends, customer behavior, and product performance  
+- Developed KPIs and performed SQL-based analysis  
+- Analyzed trends, customers, and product performance  
 - Generated actionable business insights  
 
 🔗 https://github.com/Sreya200402/Sales_Insights_SQL_Analysis  
@@ -33,18 +42,18 @@ I enjoy building end-to-end data projects, from data cleaning to analytics and r
 - Python (Pandas, NumPy)  
 - Power BI (Dashboards & Visualization)  
 - Data Cleaning & Transformation  
-- Data Warehousing Concepts (ETL, Star Schema)  
+- Data Analysis & KPI Development  
 
 ---
 
 ## 📈 What I'm Working On
 
-- Improving SQL optimization techniques  
-- Building more end-to-end analytics projects  
-- Enhancing Power BI dashboard skills  
+- Improving SQL and query optimization  
+- Building advanced Power BI dashboards  
+- Strengthening real-world analytics skills  
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn [(https://www.linkedin.com/in/sreyagracy/)]
+- LinkedIn [https://www.linkedin.com/in/sreyagracy/]
