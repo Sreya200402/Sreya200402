@@ -18,12 +18,13 @@ I enjoy building end-to-end data projects, from data cleaning to analytics and r
 
 ---
 
-### 🏗️ SQL Data Warehouse Project – Sales Data Engineering
-- Designed fact and dimension tables (star schema)  
-- Transformed raw data into structured datasets  
-- Built foundation for analytics  
+### 📊 Income Analysis & Workforce Insights – EDA & Data Cleaning
+- Performed data cleaning and exploratory data analysis on the Adult Income Dataset  
+- Handled missing values, inconsistencies, and outliers using Python  
+- Identified key factors influencing income such as education, age, and working hours  
+- Built an interactive Power BI dashboard for data-driven insights  
 
-🔗 https://github.com/Sreya200402/SQL_Data_Warehouse_Project  
+🔗 https://github.com/Sreya200402/Income-Analysis-Workforce-Insights-EDA-Data-Cleaning-
 
 ---
 
