@@ -1,37 +1,58 @@
-# Hi, I'm Sreya 👋
+# 👋 Hi, I'm Sreya
 
 🎯 Aspiring Data Analyst | SQL | Python | Power BI  
 
-I am passionate about working with data to uncover insights and support decision-making.  
-I enjoy building end-to-end data projects, from data cleaning to analytics and reporting.
+I’m passionate about turning raw data into meaningful insights that support business decision-making.  
+I enjoy building end-to-end analytics projects—from data cleaning and exploration to dashboarding and reporting.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🥇 Customer Behavior Analytics Project – SQL, Python & Power BI
-- Built an end-to-end analytics project using Python, SQL, and Power BI  
-- Performed data cleaning, feature engineering, and segmentation  
-- Generated business insights and created interactive dashboards  
+### 💰 Sales Reconciliation & Revenue Validation | SQL, Python & Power BI
+- Performed data reconciliation across multiple datasets to identify mismatches in orders and revenue  
+- Implemented logic to detect missing, duplicate, and inconsistent records  
+- Built a Power BI dashboard to track matched vs mismatched transactions  
+- Improved data accuracy and reliability for financial reporting  
+
+🔗 https://github.com/Sreya200402/Sales_Reconciliation_Revenue_Validation  
+
+---
+
+### 🥇 Customer Behavior Analytics | SQL, Python & Power BI
+- Built an end-to-end analytics solution combining SQL, Python, and Power BI  
+- Performed data cleaning, transformation, and customer segmentation  
+- Developed interactive dashboards to analyze customer purchasing patterns  
+- Delivered insights to improve business decision-making  
 
 🔗 https://github.com/Sreya200402/Customer_Behavior_Analytics_Project  
 
 ---
 
-### 📊 Income Analysis & Workforce Insights – EDA & Data Cleaning
-- Performed data cleaning and exploratory data analysis on the Adult Income Dataset  
-- Handled missing values, inconsistencies, and outliers using Python  
-- Identified key factors influencing income such as education, age, and working hours  
-- Built an interactive Power BI dashboard for data-driven insights  
+### 🦄 Unicorn Companies Investment Analysis | Power BI
+- Developed an interactive dashboard to analyze unicorn startups globally  
+- Evaluated funding, valuation, and industry trends  
+- Created a funding efficiency metric to assess capital utilization  
+- Identified high-growth industries and investment opportunities  
 
-🔗 https://github.com/Sreya200402/Income-Analysis-Workforce-Insights-EDA-Data-Cleaning-
+🔗 https://github.com/Sreya200402/Unicorn_Companies_Investment_Analysis  
 
 ---
 
-### 📊 SQL Sales Insights Project – Business Analytics
-- Developed KPIs and performed SQL-based analysis  
-- Analyzed trends, customers, and product performance  
-- Generated actionable business insights  
+### 📊 Income Analysis & Workforce Insights | Python & Power BI
+- Conducted exploratory data analysis on the Adult Income dataset  
+- Cleaned and processed data by handling missing values and inconsistencies  
+- Identified key factors influencing income such as education, age, and working hours  
+- Built a Power BI dashboard to visualize workforce trends and income distribution  
+
+🔗 https://github.com/Sreya200402/Income_Analysis_Workforce_Insights_EDA_Data_Cleaning  
+
+---
+
+### 📊 Sales Insights Analysis | SQL
+- Performed SQL-based analysis to generate business KPIs  
+- Analyzed customer behavior, product performance, and revenue trends  
+- Provided actionable insights to support business decisions  
 
 🔗 https://github.com/Sreya200402/Sales_Insights_SQL_Analysis  
 
@@ -39,22 +60,25 @@ I enjoy building end-to-end data projects, from data cleaning to analytics and r
 
 ## 🛠️ Skills
 
+**Languages & Tools:**
 - SQL (Joins, Aggregations, Window Functions)  
 - Python (Pandas, NumPy)  
-- Power BI (Dashboards & Visualization)  
+- Power BI (Data Modeling, DAX, Dashboards)  
+
+**Core Skills:**
 - Data Cleaning & Transformation  
-- Data Analysis & KPI Development  
+- Exploratory Data Analysis (EDA)  
+- KPI Development & Business Insights  
+- Dashboard Design & Data Visualization  
 
 ---
 
-## 📈 What I'm Working On
-
-- Improving SQL and query optimization  
-- Building advanced Power BI dashboards  
-- Strengthening real-world analytics skills  
+## 📈 Currently Improving
+- Advanced SQL & query optimization  
+- Power BI (DAX, data modeling)  
+- Real-world analytics problem solving  
 
 ---
 
 ## 📫 Connect with Me
-
-- LinkedIn [https://www.linkedin.com/in/sreyagracy/]
+- 🔗 LinkedIn: https://www.linkedin.com/in/sreyagracy/
