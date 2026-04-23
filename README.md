@@ -29,16 +29,6 @@ I enjoy building end-to-end analytics projects—from data cleaning and explorat
 
 ---
 
-### 🦄 Unicorn Companies Investment Analysis | Power BI
-- Developed an interactive dashboard to analyze unicorn startups globally  
-- Evaluated funding, valuation, and industry trends  
-- Created a funding efficiency metric to assess capital utilization  
-- Identified high-growth industries and investment opportunities  
-
-🔗 https://github.com/Sreya200402/Unicorn_Companies_Investment_Analysis  
-
----
-
 ### 📊 Income Analysis & Workforce Insights | Python & Power BI
 - Conducted exploratory data analysis on the Adult Income dataset  
 - Cleaned and processed data by handling missing values and inconsistencies  
@@ -46,6 +36,16 @@ I enjoy building end-to-end analytics projects—from data cleaning and explorat
 - Built a Power BI dashboard to visualize workforce trends and income distribution  
 
 🔗 https://github.com/Sreya200402/Income_Analysis_Workforce_Insights_EDA_Data_Cleaning  
+
+---
+
+### 🦄 Unicorn Companies Investment Analysis | Power BI
+- Developed an interactive dashboard to analyze unicorn startups globally  
+- Evaluated funding, valuation, and industry trends  
+- Created a funding efficiency metric to assess capital utilization  
+- Identified high-growth industries and investment opportunities  
+
+🔗 https://github.com/Sreya200402/Unicorn_Companies_Investment_Analysis  
 
 ---
 
