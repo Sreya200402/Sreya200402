@@ -49,6 +49,16 @@ I enjoy building end-to-end analytics projects—from data cleaning and explorat
 
 ---
 
+### 🏗️ SQL Data Warehouse Project | Data Engineering
+- Designed and implemented a scalable data warehouse using SQL  
+- Built Medallion Architecture (Bronze → Silver → Gold layers)  
+- Created fact and dimension tables using star schema  
+- Enabled efficient analytics and reporting through structured data  
+
+🔗 https://github.com/Sreya200402/SQL_Data_Warehouse  
+
+---
+
 ### 📊 Sales Insights Analysis | SQL
 - Performed SQL-based analysis to generate business KPIs  
 - Analyzed customer behavior, product performance, and revenue trends  
